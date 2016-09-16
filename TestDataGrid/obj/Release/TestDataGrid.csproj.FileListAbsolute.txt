@@ -1,0 +1,9 @@
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\bin\Release\TestDataGrid.exe.config
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\bin\Release\TestDataGrid.exe
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\bin\Release\TestDataGrid.pdb
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Release\TestDataGrid.Details1.resources
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Release\TestDataGrid.Form1.resources
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Release\TestDataGrid.Properties.Resources.resources
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Release\TestDataGrid.csproj.GenerateResource.Cache
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Release\TestDataGrid.exe
+C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Release\TestDataGrid.pdb
