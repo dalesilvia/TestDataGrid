@@ -9,3 +9,14 @@ c:\users\dales\documents\visual studio 2013\Projects\TestDataGrid\TestDataGrid\o
 c:\users\dales\documents\visual studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.pdb
 c:\users\dales\documents\visual studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.Details1.resources
 C:\Users\dales\Documents\Visual Studio 2013\Projects\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.StoreData.resources
+C:\temp\TestDataGrid\TestDataGrid\bin\Debug\TestDataGrid.exe.config
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.exe
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.pdb
+C:\temp\TestDataGrid\TestDataGrid\bin\Debug\TestDataGrid.exe
+C:\temp\TestDataGrid\TestDataGrid\bin\Debug\TestDataGrid.pdb
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.csprojResolveAssemblyReference.cache
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.Details1.resources
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.Form1.resources
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.Properties.Resources.resources
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.StoreData.resources
+C:\temp\TestDataGrid\TestDataGrid\obj\Debug\TestDataGrid.csproj.GenerateResource.Cache
